@@ -1,0 +1,200 @@
+{
+  "Header": {
+    "title": "Мы Event-Агенство",
+    "paragraph": "Ваш Партнёр в Создании Незабываемых Мероприятий"
+  },
+  "About": {
+    "paragraph": "Sparkle Events - это творческое агентство, специализирующееся на создании и организации незабываемых мероприятий. Наша цель - вдохновлять и превращать мечты в реальность, создавая события, которые останутся в сердцах наших клиентов и их гостей. Мы уверены, что каждое мероприятие уникально, поэтому мы подходим к нему с индивидуальным подходом, учитывая пожелания и потребности клиента. Наш опыт и профессионализм позволяют нам организовывать разнообразные мероприятия: от корпоративных вечеринок и конференций до свадебных церемоний и частных вечеринок",
+    "Why": [
+      "Профессиональный опыт",
+      "Индивидуальный подход",
+      "Креативные решения",
+      "Профессиональные партнеры"
+    ],
+    "Why2": [
+      "Гибкий подход к бюджету",
+      "Превосходное обслуживание клиентов",
+      "Точное соблюдение сроков",
+      "Безупречная репутация"
+    ]
+  },
+  "Services": [
+    {
+      "title": "Свадьбы",
+      
+      "smallImage": "img/portfolio/wedding2.jpg"
+    },
+    {
+      "title": "Корпоративы",
+      
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Игры",
+      
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Дни Рождения",
+      
+      "smallImage": "img/portfolio/birhday2.jpg"
+    },
+    {
+      "title": "Мероприятия",
+      
+      "smallImage": "img/portfolio/events2.jpg"
+    },
+    {
+      "title": "Онлайн мероприятия",
+      
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Организация фестивалей",
+      
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Частные вечеринки",
+      
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      
+      "smallImage": "img/portfolio/07-small.jpg"
+    }
+    
+  ],
+  "Gallery": [
+    {
+      
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Event Agency - это команда настоящих профессионалов! Они организовали для нас корпоративное мероприятие на высшем уровне. Отличная координация и креативные решения!.\"",
+      "name": "Алексей Иванов"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Я пришел к Event Agency с идеей провести нестандартный тренинг для наших сотрудников, и они смогли воплотить мои мечты в реальность! Отличная работа, ребята!\"",
+      "name": "Сергей Козлов"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Event Agency помогли нам сделать нашу свадьбу незабываемой! Они взяли на себя всю организацию и позволили нам просто наслаждаться моментом. Спасибо за ваш профессионализм!\"",
+      "name": "Иван Петров"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Event Agency сделала наше мероприятие по-настоящему особенным! Они внимательно выслушали все наши пожелания и создали атмосферу, о которой мы мечтали. Отличная команда профессионалов!\"",
+      "name": "Мария Смирнова"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Я обратился в Event Agency, чтобы организовать мероприятие по случаю открытия моего бизнеса, и не пожалел о своем выборе! Отличное обслуживание и индивидуальный подход к каждому клиенту.\"",
+      "name": "Дмитрий Соколов"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Спасибо Event Agency за незабываемый день рождения моего сына! Профессиональный подход, креативные идеи и забота о деталях сделали это событие по-настоящему волшебным.\"",
+      "name": "Анна Павлова"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "г. Ижевск, ул.Удмуртская, 245 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
